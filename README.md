@@ -6,9 +6,9 @@ This acts as a note for me to quickly set up my Development Environment and tool
 
 ### SublimeText
 #### Packages - list of must have packages
-- Package Control
-- Emmet
-- AdvancedNewFile
+- [Package Control](https://packagecontrol.io/installation)
+- [Emmet](https://github.com/sergeche/emmet-sublime)
+- [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
 - BracketHighlighter
 - Markdown Preview
 - HTML/CSS/JS Prettify
