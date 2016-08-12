@@ -1,7 +1,6 @@
-# devEnvironment
-Development Environment Set up
+# Devlopment Environment
 
-This acts as a note for me so I can quickly set up my Development Environment 
+This acts as a note for me to quickly set up my Development Environment and tools
 
 ## Text editor
 
