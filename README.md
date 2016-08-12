@@ -71,3 +71,6 @@ This acts as a note for me to quickly set up my Development Environment and tool
 
 
 ### Atom
+
+
+## ZSH
