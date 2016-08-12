@@ -1,6 +1,6 @@
 # Devlopment Environment
 
-This acts as a note for me to quickly set up my Development Environment and tools
+This repo acts as a note for me to quickly set up my Development Environment and tools
 
 ## Text editor
 
