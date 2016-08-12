@@ -9,13 +9,13 @@ This acts as a note for me to quickly set up my Development Environment and tool
 - [Package Control](https://packagecontrol.io/installation) -- need this so that I can install everything from SublimeText via cmd+shift+p
 - [Emmet](https://github.com/sergeche/emmet-sublime) -- writing super fast HTML/CSS 
 - [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
-- BracketHighlighter
-- Markdown Preview
-- HTML/CSS/JS Prettify
-- SublimeCodeIntel
-- Babel
-- Babel Snippets
-- SideBarEnhancements
+- [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
+- [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
+- [HTML/CSS/JS Prettify](https://github.com/victorporof/Sublime-HTMLPrettify)
+- [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
+- [Babel](https://github.com/babel/babel-sublime)
+- [Babel Snippets](https://github.com/babel/babel-sublime-snippets)
+- [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 
 #### Settings-User
 ```json
@@ -73,4 +73,15 @@ This acts as a note for me to quickly set up my Development Environment and tool
 ### Atom
 
 
+
+## Command Line
+### Plugins
+- [Homebrew](http://brew.sh/)
+- [Git](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git)
+
 ## ZSH
+
+## Node and NPM
+### packages
+-
+
