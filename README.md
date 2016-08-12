@@ -62,8 +62,7 @@ This acts as a note for me to quickly set up my Development Environment and tool
 #### Key Bindings-User
 ```json
 [
-  { "keys": ["super+b"], "command": "toggle_side_bar" },
-
+  { "keys": ["super+b"], "command": "toggle_side_bar" }
 ]
 ```
 
