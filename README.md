@@ -3,8 +3,7 @@ Development Environment Set up
 
 This acts as a note for me so I can quickly set up my Development Environment 
 
-
-## Text editor / IDE
+## Text editor
 
 ### SublimeText
 #### Packages - list of must have packages
@@ -24,3 +23,7 @@ This acts as a note for me so I can quickly set up my Development Environment
 #### Key Bindings-User
 
 #### Snippets
+
+
+
+### Atom
