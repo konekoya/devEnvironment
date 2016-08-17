@@ -16,6 +16,7 @@ This repo acts as a note for me to quickly set up my Development Environment and
 - [Babel](https://github.com/babel/babel-sublime)
 - [Babel Snippets](https://github.com/babel/babel-sublime-snippets)
 - [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
+- [Color Highlighter](https://github.com/Monnoroch/ColorHighlighter)
 
 #### Settings-User
 ```json
