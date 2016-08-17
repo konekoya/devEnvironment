@@ -71,6 +71,10 @@ This repo acts as a note for me to quickly set up my Development Environment and
 [It's on Dropbox](http://tinyurl.com/graw7xf)
 
 
+#### Fonts
+- [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) 
+- [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+
 ### Atom
 
 
