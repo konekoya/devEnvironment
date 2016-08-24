@@ -84,7 +84,11 @@ This repo acts as a note for me to quickly set up my Development Environment and
 - [Homebrew](http://brew.sh/)
 - [Git](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git)
 
-## ZSH
+## ZSH - using with Mac
+
+
+## Git Bash - using with PCs
+### Alias
 
 ## Node and NPM
 ### packages
