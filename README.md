@@ -84,10 +84,11 @@ This repo acts as a note for me to quickly set up my Development Environment and
 - [Homebrew](http://brew.sh/)
 - [Git](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git)
 
-## ZSH - using with Mac
+## ZSH - on Macs
 
 
-## Git Bash - using with PCs
+## Git Bash - On PCs
+I should have a look and figure out how to save these files as dotfile as a long-term solution
 ### Alias
 ```bash
 # Navigation
