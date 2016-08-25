@@ -2,6 +2,10 @@
 
 This repo acts as a note for me to quickly set up my Development Environment and tools
 
+#Todos
+- Separate Macs / PCs preferences
+- Use dotfile?
+
 ## Text editor
 
 ### SublimeText
@@ -63,7 +67,10 @@ This repo acts as a note for me to quickly set up my Development Environment and
 #### Key Bindings-User
 ```json
 [
-  { "keys": ["super+b"], "command": "toggle_side_bar" }
+  { "keys": ["super+b"], "command": "toggle_side_bar" },
+  { "keys": ["alt+w"], "command": "sass_beautify" },
+  { "keys": ["ctrl+shift+,"], "command": "open_dir", "args": {"dir": "$packages"} },
+  { "keys": ["ctrl+shift+b"], "command": "open_in_browser"},
 ]
 ```
 
@@ -88,7 +95,6 @@ This repo acts as a note for me to quickly set up my Development Environment and
 
 
 ## Git Bash - On PCs
-I should have a look and figure out how to save these files as dotfile as a long-term solution
 ### Alias
 ```bash
 # Navigation
