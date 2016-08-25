@@ -89,6 +89,27 @@ This repo acts as a note for me to quickly set up my Development Environment and
 
 ## Git Bash - using with PCs
 ### Alias
+```bash
+# Navigation
+alias desk="cd ~/Desktop"
+alias d=desk
+alias h="cd ~/"
+
+alias bc="vim ~/.bashrc"
+alias bs="source ~/.bashrc"
+
+# Helpers
+alias l="ls -alt"
+alias ..="cd .."
+alias c="clear"
+
+# git related
+alias gst="git status"
+alias gc="git commit"
+alias gp="git push"
+alias ga="git add"
+
+```
 
 ## Node and NPM
 ### packages
