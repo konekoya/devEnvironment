@@ -95,6 +95,7 @@ This repo acts as a note for me to quickly set up my Development Environment and
 
 
 ## Git Bash - On PCs
+[Create a bashrc file](http://stackoverflow.com/questions/6883760/git-for-windows-bashrc-or-equivalent-config-files-for-git-bash-shell)
 ### Alias
 ```bash
 # Navigation
