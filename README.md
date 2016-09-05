@@ -26,41 +26,42 @@ This repo acts as a note for me to quickly set up my Development Environment and
 ```json
 
 {
-  "bold_folder_labels": true,
-  "caret_extra_bottom": 2,
-  "caret_extra_top": 2,
-  "caret_extra_width": 3,
-  "caret_style": "phase",
-  "color_scheme": "Packages/User/SublimeLinter/Agila Oceanic Next (SL).tmTheme",
-  "font_face": "inconsolata",
-  "font_options": "subpixel_antialias",
-  "font_size": 18,
-  "highlight_line": true,
-  "highlight_modified_tabs": true,
-  "ignored_packages":
-  [
-  ],
-  "indent_guide_options":
-  [
-    "draw_normal",
-    "draw_active"
-  ],
-  "line_padding_bottom": 1,
-  "line_padding_top": 1,
-  "overlay_scroll_bars": "enabled",
-  "scroll_past_end": true,
-  "tab_size": 2,
-  "theme": "Agila.sublime-theme",
-  "theme_agila_camouflage": true,
-  "theme_agila_compact_sidebar": true,
-  "theme_agila_compact_tab": true,
-  "theme_agila_modified_tab_marker_pink": true,
-  "theme_agila_sidebar_font_xsmall": true,
-  "theme_agila_sidebar_small": true,
-  "translate_tabs_to_spaces": true,
-  "wide_caret": true,
-  "word_wrap": true
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Agila Theme/Agila Oceanic Next.tmTheme",
+	"fade_fold_buttons": false,
+	"font_face": "Source Code Pro",
+	"font_options": "subpixel_antialias",
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Babel Snippets"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"theme": "Agila.sublime-theme",
+	"theme_agila_compact_sidebar": true,
+	"theme_agila_compact_tab": true,
+	"theme_agila_sidebar_font_xsmall": true,
+	"theme_agila_sidebar_small": true,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true,
+	"folder_exclude_patterns": ["node_modules"]
 }
+
 
 ```
 
