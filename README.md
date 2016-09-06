@@ -103,6 +103,7 @@ This repo acts as a note for me to quickly set up my Development Environment and
 alias desk="cd ~/Desktop"
 alias d=desk
 alias h="cd ~/"
+alias f="cd ~/Desktop/DataFarm-psd-to-html/data-farm-f2e"
 
 alias bc="vim ~/.bashrc"
 alias bs="source ~/.bashrc"
@@ -117,6 +118,13 @@ alias gst="git status"
 alias gc="git commit"
 alias gp="git push"
 alias ga="git add"
+
+function runfarm(){
+  f
+  start http://localhost:3000
+  npm start
+}
+
 
 ```
 
