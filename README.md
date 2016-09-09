@@ -59,7 +59,7 @@ This repo acts as a note for me to quickly set up my Development Environment and
 	"theme_agila_sidebar_small": true,
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true,
-	"folder_exclude_patterns": ["node_modules"]
+	"folder_exclude_patterns": ["node_modules", ".git"]
 }
 
 
