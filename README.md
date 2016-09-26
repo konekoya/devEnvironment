@@ -118,6 +118,10 @@ alias gst="git status"
 alias gc="git commit"
 alias gp="git push"
 alias ga="git add"
+alias gco="git checkout"
+alias gb="git branch"
+alias gcm="gco master"
+alias gcd="gco develop"
 
 function runfarm(){
   f
