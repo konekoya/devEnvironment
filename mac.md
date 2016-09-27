@@ -87,9 +87,6 @@
 
 ## ZSH
 
-
-```
-
 ## Node and NPM
 ### packages
 -

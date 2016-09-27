@@ -86,6 +86,7 @@
 ## Git Bash
 [Create a bashrc file](http://stackoverflow.com/questions/6883760/git-for-windows-bashrc-or-equivalent-config-files-for-git-bash-shell)
 ### Alias
+
 ```bash
 # Navigation
 alias desk="cd ~/Desktop"
@@ -109,12 +110,4 @@ alias gco="git checkout"
 alias gb="git branch"
 alias gcm="gco master"
 alias gcd="gco develop"
-
-
-
 ```
-
-## Node and NPM
-### packages
--
-
