@@ -1,7 +1,5 @@
 # Mac
 
-
-
 #Todos
 - Separate Macs / PCs preferences
 - Use dotfile?
