@@ -1,9 +1,6 @@
-# Mac
-
-
+# PC
 
 #Todos
-- Separate Macs / PCs preferences
 - Use dotfile?
 
 ## Text editor
@@ -14,7 +11,7 @@
 - [Emmet](https://github.com/sergeche/emmet-sublime) -- writing super fast HTML/CSS 
 - [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
 - [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
-- [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
+- [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview) -- Preview your markdown in Browsers
 - [HTML/CSS/JS Prettify](https://github.com/victorporof/Sublime-HTMLPrettify)
 - [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
 - [Babel](https://github.com/babel/babel-sublime)
@@ -80,14 +77,39 @@
 
 
 #### Fonts
-- [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) 
+- [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 
 ## Command Line
 ### Plugins
-- [Homebrew](http://brew.sh/)
 - [Git](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git)
 
-## ZSH
+## Git Bash
+[Create a bashrc file](http://stackoverflow.com/questions/6883760/git-for-windows-bashrc-or-equivalent-config-files-for-git-bash-shell)
+### Alias
+```bash
+# Navigation
+alias desk="cd ~/Desktop"
+alias d=desk
+alias h="cd ~/"
+
+alias bc="vim ~/.bashrc"
+alias bs="source ~/.bashrc"
+
+# Helpers
+alias l="ls -alt"
+alias ..="cd .."
+alias c="clear"
+
+# git related
+alias gst="git status"
+alias gc="git commit"
+alias gp="git push"
+alias ga="git add"
+alias gco="git checkout"
+alias gb="git branch"
+alias gcm="gco master"
+alias gcd="gco develop"
+
 
 
 ```
