@@ -1,7 +1,6 @@
 # Mac
 
 #Todos
-- Separate Macs / PCs preferences
 - Use dotfile?
 
 ## Text editor
@@ -76,7 +75,6 @@
 #### Snippets
 [It's on Dropbox](http://tinyurl.com/graw7xf)
 
-
 #### Fonts
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) 
 
@@ -86,8 +84,37 @@
 - [Git](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git)
 
 ## ZSH
+#### Alias
+```bash
+# Open with Application
+alias chro="open -a \"/Applications/Google Chrome.app\""
+alias b=chro
+alias subl="open -a \"/Applications/Sublime Text.app\""
+alias s=subl ./
 
-## Node and NPM
-### packages
--
+# ZSH related
+alias zshc="subl ~/.zshrc"
+alias zcon=zshc
+alias zshs="source ~/.zshrc"
+alias zsrc=zshs
+
+# File Navigation
+alias desk="cd ~/Desktop"
+alias d=desk
+alias drop="cd ~/Dropbox"
+alias db=drop
+alias bi="cd ~/Desktop/Bible"
+alias g="cd ~/Desktop/konekoya.github.com"
+alias h="cd ~/"
+alias web="cd ~/Dropbox/Web\ design\ learning"
+alias code="cd ~/Desktop/learning/code"
+alias c=code
+
+# Quick accessing files
+alias voca="nano ~/Dropbox/English/Vocabulary.txt"
+
+# Simple server
+alias server='open http://localhost:8000 && python -m SimpleHTTPServer'
+
+```
 
