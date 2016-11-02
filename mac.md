@@ -95,8 +95,10 @@ alias s=subl ./
 # ZSH related
 alias zshc="subl ~/.zshrc"
 alias zcon=zshc
+alias zc=zshc
 alias zshs="source ~/.zshrc"
 alias zsrc=zshs
+alias zs=zshs
 
 # File Navigation
 alias desk="cd ~/Desktop"
@@ -104,7 +106,7 @@ alias d=desk
 alias drop="cd ~/Dropbox"
 alias db=drop
 alias bi="cd ~/Desktop/Bible"
-alias g="cd ~/Desktop/konekoya.github.com"
+alias k="cd ~/Desktop/side-projects/konekoya.github.com"
 alias h="cd ~/"
 alias web="cd ~/Dropbox/Web\ design\ learning"
 alias code="cd ~/Desktop/learning/code"
