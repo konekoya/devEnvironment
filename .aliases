@@ -7,6 +7,7 @@ alias s="subl ./"
 # ZSH related
 alias zc="subl ~/.zshrc"
 alias zs="source ~/.zshrc"
+alias zca="subl ~/.aliases"
 
 # File Navigation
 alias desk="cd ~/Desktop"
