@@ -2,7 +2,7 @@
 alias chro="open -a \"/Applications/Google Chrome.app\""
 alias b=chro
 alias subl="open -a \"/Applications/Sublime Text.app\""
-alias s=subl ./
+alias s="subl ./"
 
 # ZSH related
 alias zc="subl ~/.zshrc"
