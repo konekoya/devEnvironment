@@ -1,0 +1,49 @@
+# Open with Application
+alias chro="open -a \"/Applications/Google Chrome.app\""
+alias b=chro
+alias subl="open -a \"/Applications/Sublime Text.app\""
+alias s=subl ./
+
+# ZSH related
+alias zc="subl ~/.zshrc"
+alias zs="source ~/.zshrc"
+
+# File Navigation
+alias desk="cd ~/Desktop"
+alias d=desk
+alias drop="cd ~/Dropbox"
+alias db=drop
+alias bi="cd ~/Desktop/side-projects/Bible"
+alias k="cd ~/Desktop/side-projects/konekoya.github.com"
+alias h="cd ~/"
+alias web="cd ~/Dropbox/Web\ design\ learning"
+alias code="cd ~/Desktop/learning/code"
+alias c=code
+
+# Quick accessing files
+alias voca="nano ~/Dropbox/English/Vocabulary.txt"
+
+# Simple server
+alias server='open http://localhost:8000 && python -m SimpleHTTPServer'
+
+# Git
+alias gs="git status"
+alias gst="git status"
+alias gl="git pull"
+alias gco="git checkout"
+alias gcm="git checkout master"
+alias gcd="git checkout develop"
+alias ga="git add"
+alias gaa="git add ."
+alias gc="git commit -m"
+alias gp="git push"
+alias gg="git log --decorate --graph --oneline"
+alias gb="git branch -a"
+alias gd="git diff"
+alias gf="git fetch"
+alias gm="git merge"
+
+# NPM
+alias ns="npm start"
+alias ni="npm install"
+alias nisd="npm install --save-dev"
