@@ -1,6 +1,5 @@
 # Open with Application
 alias chro="open -a \"/Applications/Google Chrome.app\""
-alias b=chro
 alias subl="open -a \"/Applications/Sublime Text.app\""
 alias s="subl ./"
 
@@ -9,22 +8,26 @@ alias zc="subl ~/.zshrc"
 alias zs="source ~/.zshrc"
 alias zca="subl ~/.aliases"
 
+alias ee="exit"
+
 # File Navigation
 alias desk="cd ~/Desktop"
 alias d=desk
-alias drop="cd ~/Dropbox"
 alias db=drop
+
+# Specific dirs
+alias h="cd ~/"
+alias drop="cd ~/Dropbox"
 alias bi="cd ~/Desktop/side-projects/Bible"
 alias k="cd ~/Desktop/side-projects/konekoya.github.com"
-alias h="cd ~/"
 alias web="cd ~/Dropbox/Web\ design\ learning"
 alias code="cd ~/Desktop/learning/code"
-alias c=code
+alias oo="cd ~/Desktop/data-farm/data-farm-f2e"
 
 # Quick accessing files
-alias voca="nano ~/Dropbox/English/Vocabulary.txt"
+alias voca="vim ~/Dropbox/English/Vocabulary.txt"
 
-# Simple server
+# Quickly launch a local server
 alias server='open http://localhost:8000 && python -m SimpleHTTPServer'
 
 # Git
