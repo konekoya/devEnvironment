@@ -83,40 +83,6 @@
 - [Homebrew](http://brew.sh/)
 - [Git](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git)
 
-## ZSH
-#### Alias
-```bash
-# Open with Application
-alias chro="open -a \"/Applications/Google Chrome.app\""
-alias b=chro
-alias subl="open -a \"/Applications/Sublime Text.app\""
-alias s=subl ./
+## ZSH Shell
 
-# ZSH related
-alias zshc="subl ~/.zshrc"
-alias zcon=zshc
-alias zc=zshc
-alias zshs="source ~/.zshrc"
-alias zsrc=zshs
-alias zs=zshs
-
-# File Navigation
-alias desk="cd ~/Desktop"
-alias d=desk
-alias drop="cd ~/Dropbox"
-alias db=drop
-alias bi="cd ~/Desktop/Bible"
-alias k="cd ~/Desktop/side-projects/konekoya.github.com"
-alias h="cd ~/"
-alias web="cd ~/Dropbox/Web\ design\ learning"
-alias code="cd ~/Desktop/learning/code"
-alias c=code
-
-# Quick accessing files
-alias voca="nano ~/Dropbox/English/Vocabulary.txt"
-
-# Simple server
-alias server='open http://localhost:8000 && python -m SimpleHTTPServer'
-
-```
 
