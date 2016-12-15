@@ -1,14 +1,16 @@
-# Open with Application
+# Open with an application
 alias chro="open -a \"/Applications/Google Chrome.app\""
 alias subl="open -a \"/Applications/Sublime Text.app\""
 alias s="subl ./"
 
-# ZSH related
+# ZSH
 alias zc="subl ~/.zshrc"
 alias zs="source ~/.zshrc"
 alias zca="subl ~/.aliases"
 
 alias ee="exit"
+alias c="clean"
+alias rm="rm -rf"
 
 # File Navigation
 alias desk="cd ~/Desktop"
@@ -27,7 +29,14 @@ alias oo="cd ~/Desktop/data-farm/data-farm-f2e"
 # Quick accessing files
 alias voca="vim ~/Dropbox/English/Vocabulary.txt"
 
-# Quickly launch a local server
+# Get IP address
+alias ip="ipconfig getifaddr en0"
+
+# Tree view
+alias t="tree"
+
+
+# Start a local web server from this dir
 alias server='open http://localhost:8000 && python -m SimpleHTTPServer'
 
 # Git
