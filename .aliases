@@ -13,23 +13,19 @@ alias c="clean"
 alias rm="rm -rf"
 
 # File Navigation
-alias desk="cd ~/Desktop"
-alias d=desk
-alias db=drop
-
-# Specific dirs
+alias d="cd ~/Desktop"
 alias h="cd ~/"
 alias drop="cd ~/Dropbox"
+alias db=drop
 alias bi="cd ~/Desktop/side-projects/Bible"
 alias k="cd ~/Desktop/side-projects/konekoya.github.com"
-alias web="cd ~/Dropbox/Web\ design\ learning"
 alias code="cd ~/Desktop/learning/code"
 alias oo="cd ~/Desktop/data-farm/data-farm-f2e"
 
 # Quick accessing files
 alias voca="vim ~/Dropbox/English/Vocabulary.txt"
 
-# Get IP address
+# Get the physical ip address of this Mac
 alias ip="ipconfig getifaddr en0"
 
 # Tree view
