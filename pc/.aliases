@@ -1,0 +1,40 @@
+# Navigation
+alias desk="cd ~/Desktop"
+alias d=desk
+alias h="cd ~/"
+alias f="cd ~/Desktop/DataFarm-psd-to-html/data-farm-f2e"
+
+# Applications
+alias bc="vim ~/.bashrc"
+alias bca="vim ~/.aliases"
+alias bs="source ~/.bashrc"
+
+alias s="subl"
+
+# Lanch a node http server on the current directory
+alias server="http-server"
+
+# Helpers
+alias l="ls -alt"
+alias ..="cd .."
+alias c="clear"
+
+# NPM
+alias ns="npm start"
+
+# git related
+alias gs="git status"
+alias gst="git status"
+alias gl="git pull"
+alias gco="git checkout"
+alias gcm="git checkout master"
+alias gcd="git checkout develop"
+alias ga="git add"
+alias gaa="git add ."
+alias gc="git commit -m"
+alias gp="git push"
+alias gg="git log --decorate --graph --oneline"
+alias gb="git branch -a"
+alias gd="git diff"
+alias gf="git fetch"
+alias gm="git merge"
