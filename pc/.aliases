@@ -18,6 +18,7 @@ alias server="http-server"
 alias l="ls -alt"
 alias ..="cd .."
 alias c="clear"
+alias ee="exit"
 
 # NPM
 alias ns="npm start"
